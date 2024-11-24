@@ -5,4 +5,4 @@
 
 <h2> Display video <h2>
 
-![](screen.mp4)
+![](screen.gif.gif)
