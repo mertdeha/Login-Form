@@ -1,7 +1,7 @@
-<h1> Futuristic Login Form <h1>
+<h1> Futuristic Login Form </h1>
 
-<p>A smooth design for a login page<p>
+A smooth design for a login page
 
-<h2> Display video <h2>
+<h2> Display video </h2>
 
 ![](screen.gif.gif)
